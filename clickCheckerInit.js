@@ -1,0 +1,1 @@
+let cc = new ClickChecker("clickArea", 'clicks', 'doubleClicks', 'doubleClickPercentage');
